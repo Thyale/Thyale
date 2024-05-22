@@ -13,8 +13,8 @@ Seja bem-vindo ao meu GitHub!
 ## Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/thyale">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyale&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyale&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyale&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyale&layout=compact&langs_count=16&theme=onedark"/>
   </a>
 </div>
 
