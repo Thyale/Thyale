@@ -11,9 +11,8 @@ Seja bem-vindo ao meu GitHub!
 🌱 Sempre aprendendo e buscando novos desafios.
 
 ## Estatísticas do GitHub
-<div align="center">
+<div>
   <a href="https://github.com/thyale">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyale&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyale&layout=compact&langs_count=16&theme=onedark"/>
   </a>
 </div>
