@@ -6,9 +6,9 @@ Seja bem-vindo ao meu GitHub!
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thyaledantas@gmail.com)
 
 ## Sobre mim
-🌟 Apaixonadaa por tecnologia, desing e desenvolvimento de FrontEnd
-🎓 Estudante em Análise e desenvolvimento de sistemas, conclusão em 2025.2
-🌱 Sempre aprendendo e buscando novos desafios
+🌟 Apaixonadaa por tecnologia, desing e desenvolvimento de FrontEnd.
+🎓 Estudante em Análise e desenvolvimento de sistemas, conclusão em 2025.2.
+🌱 Sempre aprendendo e buscando novos desafios.
 
 ## Estatísticas do GitHub
 <div>
