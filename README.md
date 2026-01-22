@@ -8,15 +8,13 @@ Seja bem-vindo ao meu GitHub!
 ---
 
 ## Sobre mim  
-**UI/UX Designer | Front-End Developer**  
-Sou UI/UX Designer e Desenvolvedora Front-End, apaixonada por criar experiências digitais intuitivas e funcionais.  
+**UI/UX Designer | Base em Desenvolvimento Front-End**  
 
-💡 **O que eu faço:**  
-✔️ Pesquisa com usuários para entender dores e necessidades  
-✔️ Criação de wireframes e protótipos interativos  
-✔️ Arquitetura da informação e design de interação  
-✔️ Design de interfaces responsivas e acessíveis  
-✔️ Desenvolvimento Front-End com HTML, CSS, JavaScript, React, Angular e Tailwind
+Sou formada em Análise e Desenvolvimento de Sistemas, com conhecimento da base de front-end e back-end. Ao longo da graduação, atuei em projetos de desenvolvimento front-end e construí um repertório prático na área.
+
+Durante esse processo, me aprofundei em UI e UX, com foco em pesquisa com usuários, entendimento de necessidades, arquitetura da informação e design de interfaces. Trabalho com fluxogramas, wireframes e protótipos interativos, utilizando o Figma para transformar ideias em interfaces funcionais e intuitivas.
+
+Meu objetivo é unir design e tecnologia para criar experiências digitais claras, eficientes e centradas no usuário.
 
 ---
 
